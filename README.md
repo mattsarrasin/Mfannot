@@ -25,12 +25,18 @@ MFannot is a PERL pipeline that use [BioPerl](http://bioperl.org/), so you need 
 
 MFannot uses some well known programs, taht need to be installed on your system::
 
-- Blast: to install Blast see the documentation at the [NCBI website](http://www.ncbi.nlm.nih.gov/guide/howto/run-blast-local/).
+- Blast version 2.2.26 AND Blast version >= 2.2.27+: to install Blast see the documentation at the [NCBI website](http://www.ncbi.nlm.nih.gov/guide/howto/run-blast-local/).
+  * tested with versions 2.2.26 and 2.2.31+
 - HMMER: to install HMMER see the documentation at the [HMMER website](http://hmmer.org/download.html).
+  * tested with version 3.2.1
 - Exonerate: to install Exonerate see the documentation at the following [GitHub repo](https://github.com/nathanweeks/exonerate).
+  * tested with version 2.2.0
 - Muscle: to install Muscle see the documentation [here](http://www.drive5.com/muscle/).
+  * tested with version 3.8.1551
 - EMBOSS: to install EMBOSS see the documentation [here](http://emboss.sourceforge.net/download/#Stable/).
+  * tested with version 6.6.0
 - Erpin: to install Erpin see the documentation [here](http://rna.igmors.u-psud.fr/Software/erpin.php).
+  * tested with version 5.5.4.serv
 - tbl2asn: to install tbl2asn see the documentation [here](https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/)
 - PirObject: to install this Perl library see the documentation in this [GitHub repo](https://github.com/prioux/PirObject),
 
